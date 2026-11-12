@@ -5,13 +5,16 @@ ERC-20 transfer volume on a 7-day dataset, Nov 5 - Nov 11, 2026 PHT. It ranks to
 
 ## 1. Parts / Statements
 
-**1. ERC-20 Transfer Volume and Count by Token **
+**1. ERC-20 Transfer Volume and Count by Token**
+<br>
 Groups token with unique contract address to show total transfer count and value.
 
 **2. Hourly Transfer Buckets**
+<br>
 Counts how many transfers happened in each hour
 
 **3. Count Contracts Emitting Transfer Events**
+<br>
 Counts how many different tokens had at least one transfer by counting distinct contract address.
 
 ## 2. Workflow
